@@ -1,0 +1,1 @@
+# Classification-of-Vegetation-Waterbodies-soil-in-telangana-region-using-spectral-indices
